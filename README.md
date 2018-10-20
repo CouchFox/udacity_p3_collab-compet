@@ -30,7 +30,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 
 ### Getting Started
-To install the code for Project 2 of the Udacity Deep Reinforcement Learning Nanodegree, follow the instructions here: https://github.com/udacity/deep-reinforcement-learning
+To install the code for Project 3 of the Udacity Deep Reinforcement Learning Nanodegree, follow the instructions here: https://github.com/udacity/deep-reinforcement-learning
 
 I chose to install the code locally on an Ubuntu 16.04 with an NVidia 1080 Ti graphics card. To setup tensorflow with gpu, cuda and cuDNN I followed this instructions:
 https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
